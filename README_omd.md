@@ -3,6 +3,8 @@
 <img src="https://colab.research.google.com/assets/colab-badge.svg">  
 
 &#9745; [00_pytorch_fundamentals.ipynb ](https://colab.research.google.com/github/omdgit/pytorch-deep-learning/blob/main/00_pytorch_fundamentals.ipynb)  
+    * &#9744; [00_quickstart_tutorial](https://colab.research.google.com/github/omdgit/pytorch-deep-learning/blob/main/omd/00_quickstart_tutorial.ipynb)   
+    * &#9744; [00_tensor_tutorial](https://colab.research.google.com/github/omdgit/pytorch-deep-learning/blob/main/omd/00_tensor_tutorial.ipynb)  
 &#9744; [01_pytorch_workflow.ipynb](https://colab.research.google.com/github/omdgit/pytorch-deep-learning/blob/main/01_pytorch_workflow.ipynb)  
 &#9744; [02_pytorch_classification.ipynb](https://colab.research.google.com/github/omdgit/pytorch-deep-learning/blob/main/02_pytorch_classification.ipynb)  
 &#9744; [03_pytorch_computer_vision.ipynb](https://colab.research.google.com/github/omdgit/pytorch-deep-learning/blob/main/03_pytorch_computer_vision.ipynb)  
